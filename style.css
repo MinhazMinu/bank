@@ -1,0 +1,44 @@
+.h {
+  height: 90vh;
+}
+body {
+  background-color: #fff;
+}
+
+.logcomp {
+  box-shadow: 5px 5px 10px gray;
+  width: 80%;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: #fdfdfd;
+}
+
+#transaction {
+  /* display: none; */
+  /* height: 100vh; */
+}
+
+#one,
+#two,
+#three {
+  border-radius: 10px;
+  padding: 10px 10px;
+  color: #fff;
+}
+#one {
+  background-color: slateblue;
+}
+#two {
+  background-color: lightsalmon;
+}
+#three {
+  background-color: orange;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px gray;
+  padding: 10px 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
